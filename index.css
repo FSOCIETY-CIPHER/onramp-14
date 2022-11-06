@@ -1,5 +1,12 @@
+html{
+    background-color: black;
+}
+div{
+    color: white;
+}
 h1 {
     font-family: Lobster;
+    color: red;
 
 }
 img {
@@ -15,3 +22,7 @@ img {
 .cat-img{
     size: 40px;
 }
+.grid-container {
+    display: inline-grid;
+    gap: 50px;
+  }
